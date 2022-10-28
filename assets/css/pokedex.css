@@ -11,15 +11,15 @@
 }
 
 .grass {
-  background-color: #77c850;
+  background-color: #00a811;
 }
 
 .fire {
-  background-color: #ee7f30;
+  background-color: #ff2600;
 }
 
 .water {
-  background-color: #678fee;
+  background-color: #3e62ff;
 }
 
 .electric {
@@ -31,7 +31,7 @@
 }
 
 .ground {
-  background-color: #dfbf69;
+  background-color: #9e5000;
 }
 
 .flying {
@@ -83,7 +83,7 @@
   flex-direction: column;
   margin: .5rem;
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: .1rem 2rem;
 }
 
 .pokemon .number {
