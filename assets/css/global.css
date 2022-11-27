@@ -4,14 +4,14 @@
 }
 
 body {
-  background-color: #950016;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1WFyBlwlvbfuEkfQOofeS3uPb_v_wlu_wQ&usqp=CAU);
+  
 }
 
 .content {
   width: 100vw;
   height: 100vh;
   padding: 1rem;
-  background-color: #ea0000;
 }
 
 @media screen and (min-width: 992px) {
