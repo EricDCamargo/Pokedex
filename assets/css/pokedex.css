@@ -94,9 +94,11 @@
 }
 
 .pokemon .name {
+  font-family: 'Pocket Monk';
   text-transform: capitalize;
   color: #fff;
   margin-bottom: .25rem;
+  font-size: 1.4rem;
 }
 
 .pokemon .detail {
@@ -116,7 +118,7 @@
   color: #fff;
   padding: .25rem .5rem;
   margin: .25rem 0;
-  font-size: .625rem;
+  font-size: .700rem;
   border-radius: 1rem;
   filter: brightness(1.1);
   text-align: center;
